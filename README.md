@@ -1,6 +1,6 @@
-# travel_kenya
+# Safari App
 
-A new Flutter project.
+Safari App made with Flutter
 
 ## Getting Started
 
